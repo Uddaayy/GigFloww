@@ -1,6 +1,6 @@
 import React from 'react';
 import { Briefcase, Users, Zap, ArrowRight } from 'lucide-react';
-
+//basic thing
 function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-600 via-blue-100 to-white">
